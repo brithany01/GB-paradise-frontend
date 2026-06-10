@@ -1,0 +1,122 @@
+[
+      {
+    "id": 1,
+    "title": "Punta Cana Paradise",
+    "description": "3 días y 2 noches",
+    "price": "RD$8,500",
+    "rating": "4.8",
+    "image": "/punta_cana.png",
+    "category": "Playa",
+    "route": "/punta-cana"
+  },
+  {
+    "id": 2,
+    "title": "Jarabacoa Adventure",
+    "description": "Aventura en la montaña",
+    "price": "RD$4,500",
+    "rating": "4.7",
+    "image": "/jarabacoa.png",
+    "category": "Aventura",
+    "route": "/jarabacoa"
+  },
+  {
+    "id": 3,
+    "title": "Isla Saona Premium",
+    "description": "Día completo",
+    "price": "RD$3,800",
+    "rating": "4.9",
+    "image": "/Isla_saona.png",
+    "category": "Popular",
+    "route": "/isla-saona"
+  },
+  {
+    "id": 4,
+    "title": "Samaná Experience",
+    "description": "Avistamiento de ballenas",
+    "price": "RD$6,200",
+    "rating": "4.8",
+    "image": "/Samana.png",
+    "category": "Naturaleza",
+    "route": "/samana"
+  },
+  {
+    "id": 5,
+    "title": "Santo Domingo City Tour",
+    "description": "Historia y cultura",
+    "price": "RD$2,900",
+    "rating": "4.6",
+    "image": "/santo_domingo.png",
+    "category": "Cultura",
+    "route": "/santo-domingo"
+  },
+  {
+    "id": 6,
+    "title": "Bávaro All Inclusive",
+    "description": "Relájate y disfruta",
+    "price": "RD$9,900",
+    "rating": "4.9",
+    "image": "/bavaro.png",
+    "category": "Relajación",
+    "route": "/bavaro"
+  },
+  {
+    "id": 7,
+    "title": "Bayahibe Escape",
+    "description": "Playas y naturaleza",
+    "price": "RD$4,200",
+    "rating": "4.7",
+    "image": "/bayahibe.png",
+    "category": "Playa",
+    "route": "/bayahibe"
+  },
+  {
+    "id": 8,
+    "title": "Los Haitises Tour",
+    "description": "Naturaleza y aventura",
+    "price": "RD$3,200",
+    "rating": "4.8",
+    "image": "/los_haitises.png",
+    "category": "Aventura",
+    "route": "/los-haitises"
+  },
+  {
+    "id": 9,
+    "title": "Ciudad Colonial Walk",
+    "description": "Recorrido histórico",
+    "price": "RD$2,400",
+    "rating": "4.5",
+    "image": "/ciudad_colonial.png",
+    "category": "Cultura",
+    "route": "/ciudad-colonial"
+  },
+  {
+    "id": 10,
+    "title": "Cabarete Relax",
+    "description": "Sol, playa y mar",
+    "price": "RD$3,100",
+    "rating": "4.6",
+    "image": "/cabarete.png",
+    "category": "Relajación",
+    "route": "/cabarete"
+  },
+  {
+    "id": 11,
+    "title": "Monte Cristi Getaway",
+    "description": "Playas vírgenes",
+    "price": "RD$4,700",
+    "rating": "4.8",
+    "image": "/monte_cristi.png",
+    "category": "Popular",
+    "route": "/monte-cristi"
+  },
+  {
+    "id": 12,
+    "title": "Laguna Rincón",
+    "description": "Paraíso escondido",
+    "price": "RD$3,600",
+    "rating": "4.7",
+    "image": "/laguna_rincon.png",
+    "category": "Naturaleza",
+    "route": "/laguna-rincon"
+  }
+]

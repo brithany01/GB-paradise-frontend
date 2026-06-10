@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Punta Cana Paradise",
+    "description": "3 días y 2 noches",
+    "price": "RD$8,500",
+    "rating": "4.8",
+    "image": "/punta_cana.png",
+    "category": "Playa",
+    "route": "/punta-cana"
+  },
+  {
+    "id": 2,
+    "title": "Jarabacoa Adventure",
+    "description": "Aventura en la montaña",
+    "price": "RD$4,500",
+    "rating": "4.7",
+    "image": "/jarabacoa.png",
+    "category": "Aventura",
+    "route": "/jarabacoa"
+  },
+  {
+    "id": 3,
+    "title": "Isla Saona Premium",
+    "description": "Día completo",
+    "price": "RD$3,800",
+    "rating": "4.9",
+    "image": "/Isla_saona.png",
+    "category": "Popular",
+    "route": "/isla-saona"
+  },
+  {
+    "id": 4,
+    "title": "Samaná Experience",
+    "description": "Avistamiento de ballenas",
+    "price": "RD$6,200",
+    "rating": "4.8",
+    "image": "/Samana.png",
+    "category": "Naturaleza",
+    "route": "/samana"
+  },
+  {
+    "id": 5,
+    "title": "Santo Domingo City Tour",
+    "description": "Historia y cultura",
+    "price": "RD$2,900",
+    "rating": "4.6",
+    "image": "/santo_domingo.png",
+    "category": "Cultura",
+    "route": "/santo-domingo"
+  },
+  {
+    "id": 6,
+    "title": "Bávaro All Inclusive",
+    "description": "Relájate y disfruta",
+    "price": "RD$9,900",
+    "rating": "4.9",
+    "image": "/bavaro.png",
+    "category": "Relajación",
+    "route": "/bavaro"
+  }
+]

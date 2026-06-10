@@ -1,0 +1,38 @@
+[
+  {
+    "icon": "💬",
+    "title": "Chat en vivo",
+    "description": "Atención inmediata en nuestro sitio web.",
+    "color": "#18B7C8"
+  },
+  {
+    "icon": "🧳",
+    "title": "Asesoría de viajes",
+    "description": "Planificamos tu viaje perfecto.",
+    "color": "#00B4D8"
+  },
+  {
+    "icon": "❓",
+    "title": "Preguntas frecuentes",
+    "description": "Resuelve tus dudas rápidamente.",
+    "color": "#FFC857"
+  },
+  {
+    "icon": "📄",
+    "title": "Cambios y cancelaciones",
+    "description": "Te ayudamos con cambios en tu reserva.",
+    "color": "#FF8C42"
+  },
+  {
+    "icon": "🛡️",
+    "title": "Soporte 24/7",
+    "description": "Asistencia en todo momento.",
+    "color": "#023047"
+  },
+  {
+    "icon": "❤️",
+    "title": "Opiniones y sugerencias",
+    "description": "Tu opinión nos ayuda a mejorar.",
+    "color": "#EF476F"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "icon": "📞",
+    "title": "Llámanos",
+    "value": "+1 (809) 123-4567",
+    "extra": "Lun - Vie: 8:00 AM - 8:00 PM",
+    "color": "#18B7C8"
+  },
+  {
+    "icon": "💬",
+    "title": "WhatsApp",
+    "value": "+1 (809) 123-4567",
+    "extra": "Escríbenos 24/7",
+    "color": "#25D366"
+  },
+  {
+    "icon": "✉️",
+    "title": "Envíanos un correo",
+    "value": "info@gbparadise.com",
+    "extra": "Respondemos en menos de 24 horas",
+    "color": "#FF8C42"
+  },
+  {
+    "icon": "📍",
+    "title": "Visítanos",
+    "value": "Av. Winston Churchill 123",
+    "extra": "Santo Domingo, República Dominicana",
+    "color": "#023047"
+  }
+]

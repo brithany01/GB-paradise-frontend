@@ -1,0 +1,38 @@
+[
+  {
+    "image": "/Samana.png",
+    "title": "Nado con Tiburones Ballena",
+    "location": "Samaná",
+    "price": "RD$6,800"
+  },
+  {
+    "image": "/damajagua.png",
+    "title": "Canyoning en Damajagua",
+    "location": "Puerto Plata",
+    "price": "RD$4,200"
+  },
+  {
+    "image": "/ciudad_colonial.png",
+    "title": "Tour Histórico en Santo Domingo",
+    "location": "Santo Domingo",
+    "price": "RD$2,500"
+  },
+  {
+    "image": "/pico_duarte.png",
+    "title": "Hiking en Pico Duarte",
+    "location": "La Vega",
+    "price": "RD$3,800"
+  },
+  {
+    "image": "/catamaran_saona.png",
+    "title": "Catamarán Isla Saona",
+    "location": "Isla Saona",
+    "price": "RD$3,200"
+  },
+  {
+    "image": "/dominican_cooking.png",
+    "title": "Clase de Cocina Dominicana",
+    "location": "Santo Domingo",
+    "price": "RD$2,100"
+  }
+]

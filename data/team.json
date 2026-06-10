@@ -1,0 +1,22 @@
+[
+  {
+    "image": "/team_maria.png",
+    "name": "María González",
+    "role": "Directora de Viajes"
+  },
+  {
+    "image": "/team_carlos.png",
+    "name": "Carlos Pérez",
+    "role": "Especialista en Destinos"
+  },
+  {
+    "image": "/team_laura.png",
+    "name": "Laura Martínez",
+    "role": "Experta en Experiencias"
+  },
+  {
+    "image": "/team_andres.png",
+    "name": "Andrés Ramírez",
+    "role": "Atención al Cliente"
+  }
+]

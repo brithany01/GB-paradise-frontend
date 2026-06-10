@@ -1,0 +1,27 @@
+[
+  {
+    "icon": "🛡️",
+    "title": "Confianza",
+    "description": "Construimos relaciones basadas en la honestidad."
+  },
+  {
+    "icon": "⭐",
+    "title": "Calidad",
+    "description": "Experiencias excepcionales y memorables."
+  },
+  {
+    "icon": "🧡",
+    "title": "Pasión",
+    "description": "Amamos crear viajes increíbles."
+  },
+  {
+    "icon": "🌿",
+    "title": "Sostenibilidad",
+    "description": "Turismo responsable y consciente."
+  },
+  {
+    "icon": "👥",
+    "title": "Compromiso",
+    "description": "Estamos contigo en cada paso."
+  }
+]

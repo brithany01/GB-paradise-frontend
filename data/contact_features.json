@@ -1,0 +1,26 @@
+[
+  {
+    "icon": "🛡️",
+    "title": "Respuesta rápida",
+    "description": "Te respondemos en menos de 24 horas.",
+    "color": "#18B7C8"
+  },
+  {
+    "icon": "⭐",
+    "title": "Atención personalizada",
+    "description": "Te ayudamos a planificar tu viaje ideal.",
+    "color": "#FFC857"
+  },
+  {
+    "icon": "🔒",
+    "title": "Seguridad y confianza",
+    "description": "Tus datos están protegidos.",
+    "color": "#023047"
+  },
+  {
+    "icon": "🤝",
+    "title": "Comprometidos contigo",
+    "description": "Nuestro objetivo es superar tus expectativas.",
+    "color": "#00B4D8"
+  }
+]
