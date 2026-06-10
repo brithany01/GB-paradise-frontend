@@ -1,0 +1,27 @@
+[
+  {
+    "number": "1",
+    "title": "Busca tu viaje",
+    "description": "Elige tu destino, fechas y el tipo de experiencia que quieres vivir."
+  },
+  {
+    "number": "2",
+    "title": "Selecciona opciones",
+    "description": "Elige el paquete, habitación o actividad que mejor se adapte a ti."
+  },
+  {
+    "number": "3",
+    "title": "Completa tus datos",
+    "description": "Ingresa la información de los viajeros y revisa los detalles de tu reserva."
+  },
+  {
+    "number": "4",
+    "title": "Realiza tu pago",
+    "description": "Paga de forma segura con múltiples métodos de pago disponibles."
+  },
+  {
+    "number": "5",
+    "title": "¡Reserva confirmada!",
+    "description": "Recibirás un correo con todos los detalles de tu viaje."
+  }
+]

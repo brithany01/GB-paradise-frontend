@@ -1,0 +1,14 @@
+{
+  "packages": {
+    "title_image": "/reservation_title_packages.png",
+    "description": "Completa tu reserva en pocos pasos y prepárate para vivir experiencias inolvidables en los mejores destinos.",
+    "card_title": "Reserva segura",
+    "card_description": "Tu información está protegida con los más altos estándares de seguridad."
+  },
+  "hotels": {
+    "title_image": "/reservation_title_hotels.png",
+    "description": "Encuentra alojamientos seleccionados para disfrutar una experiencia cómoda y segura.",
+    "card_title": "Hoteles verificados",
+    "card_description": "Alojamientos seleccionados con las mejores valoraciones y atención garantizada."
+  }
+}

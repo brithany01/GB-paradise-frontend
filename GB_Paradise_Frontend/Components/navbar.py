@@ -75,13 +75,23 @@ def navbar():
                 rx.spacer(),
 
                 # Botón Reservar
-                rx.button(
-                    "✈️ Reservar ahora",
-                    bg="#FFC857",
-                    color="white",
-                    border_radius="14px",
-                    padding_x="1.4em",
-                    padding_y="0.6em",
+                rx.link(
+
+                    rx.button(
+                        "✈️ Reservar ahora",
+                        bg="#FFC857",
+                        color="white",
+                        border_radius="14px",
+                        padding_x="1.4em",
+                        padding_y="0.6em",
+                        cursor="pointer",
+                        _hover={
+                            "bg": "#F4B400",
+                        },
+                    ),
+
+                    href="/reservation",
+                    text_decoration="none",
                 ),
 
                 width="100%",

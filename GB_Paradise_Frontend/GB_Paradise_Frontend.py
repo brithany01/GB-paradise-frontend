@@ -8,6 +8,7 @@ from .Pages.offers import offers
 from .Pages.experiences import experiences
 from .Pages.about import about
 from .Pages.contact import contact
+from .Pages.reservation import reservation
 
 
 class State(rx.State):
@@ -51,4 +52,10 @@ app.add_page(
     contact,
     route="/contact",
     title="Contacto | GB Paradise"
+)
+
+app.add_page(
+    reservation,
+    route="/reservation",
+    title="Reservas | GB Paradise"
 )
