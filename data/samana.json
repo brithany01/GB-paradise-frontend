@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "image": "/samana_hero.jfif",
+    "title_image": "/samana_title.png",
+
+    "badge": "Destino Popular",
+
+    "subtitle": "Avistamiento de ballenas",
+
+    "description": "Vive la magia de Samaná: avistamiento de ballenas jorobadas, playas vírgenes y paisajes naturales únicos.",
+
+    "price": "RD$6,200",
+
+    "rating": "4.8",
+
+    "reviews": "112 reseñas",
+
+    "cancelation": "Cancelación gratuita hasta 48h antes",
+
+    "features": [
+      "3 días y 2 noches",
+      "Ballenas",
+      "Playas",
+      "Naturaleza"
+    ]
+  },
+
+  "info": {
+    "location": {
+      "title": "Ubicación",
+      "value": "Península de Samaná, República Dominicana",
+      "icon": "/location_icon.png"
+    },
+
+    "duration": {
+      "title": "Duración",
+      "value": "3 días / 2 noches",
+      "icon": "/calendar_icon.png"
+    },
+
+    "experience": {
+      "title": "Tipo de experiencia",
+      "value": "Naturaleza y aventura",
+      "icon": "/mountain_icon.png"
+    },
+
+    "season": {
+      "title": "Mejor temporada",
+      "value": "Enero a Marzo",
+      "icon": "/sun_icon.png"
+    }
+  },
+
+  "includes": [
+    {
+      "title": "Transporte ida y vuelta",
+      "description": "Desde Santo Domingo",
+      "icon": "/transport_icon.png"
+    },
+    {
+      "title": "Alojamiento",
+      "description": "2 noches en hotel",
+      "icon": "/hotel_icon.png"
+    },
+    {
+      "title": "Alimentación",
+      "description": "Desayunos y almuerzos",
+      "icon": "/food_icon.png"
+    },
+    {
+      "title": "Avistamiento de ballenas",
+      "description": "Excursión en barco",
+      "icon": "/whale_icon.png"
+    },
+    {
+      "title": "Excursiones guiadas",
+      "description": "Cascadas y playas",
+      "icon": "/excursion_icon.png"
+    },
+    {
+      "title": "Seguro de viaje",
+      "description": "Asistencia 24/7",
+      "icon": "/insurance_icon.png"
+    }
+  ],
+
+  "gallery": [
+    "/samana_gallery_1.jfif",
+    "/samana_gallery_2.jfif",
+    "/samana_gallery_3.jfif",
+    "/samana_gallery_4.jfif",
+    "/samana_gallery_5.jfif"
+  ],
+
+  "offers": [
+    {
+      "title": "Samaná Clásico",
+      "image": "/samana_offer_1.jfif",
+      "price": "RD$6,200",
+      "old_price": "RD$7,300",
+      "discount": "-15%",
+      "rating": "4.8",
+      "duration": "3 días / 2 noches"
+    },
+    {
+      "title": "Samaná All Inclusive",
+      "image": "/samana_offer_2.jfif",
+      "price": "RD$7,900",
+      "old_price": "RD$9,900",
+      "discount": "-20%",
+      "rating": "4.9",
+      "duration": "3 días / 2 noches"
+    },
+    {
+      "title": "Samaná Aventura",
+      "image": "/samana_offer_3.jfif",
+      "price": "RD$4,800",
+      "old_price": "RD$5,300",
+      "discount": "-10%",
+      "rating": "4.7",
+      "duration": "3 días / 1 noche"
+    },
+    {
+      "title": "Samaná y Cayo Levantado",
+      "image": "/samana_offer_4.jfif",
+      "price": "RD$3,200",
+      "old_price": "RD$3,900",
+      "discount": "-18%",
+      "rating": "4.8",
+      "duration": "1 día completo"
+    },
+    {
+      "title": "Relax en Samaná",
+      "image": "/samana_offer_5.jfif",
+      "price": "RD$5,400",
+      "old_price": "RD$6,100",
+      "discount": "-12%",
+      "rating": "4.6",
+      "duration": "3 días / 2 noches"
+    }
+  ]
+}

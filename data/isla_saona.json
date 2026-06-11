@@ -1,0 +1,147 @@
+{
+  "hero": {
+    "image": "/isla_saona_hero.jfif",
+    "title_image": "/isla_saona_title.png",
+
+    "badge": "Destino Popular",
+
+    "subtitle": "Relájate en el paraíso",
+
+    "description": "Relájate en las paradisíacas playas de Isla Saona, piscinas naturales y disfruta de un día inolvidable en el mar Caribe.",
+
+    "price": "RD$3,800",
+
+    "rating": "4.9",
+
+    "reviews": "156 reseñas",
+
+    "cancelation": "Cancelación gratuita hasta 48h antes",
+
+    "features": [
+      "1 día completo",
+      "Catamarán",
+      "Snorkel",
+      "Todo incluido"
+    ]
+  },
+
+  "info": {
+    "location": {
+      "title": "Ubicación",
+      "value": "Isla Saona, Mar Caribe, República Dominicana",
+      "icon": "/location_icon.png"
+    },
+
+    "duration": {
+      "title": "Duración",
+      "value": "1 día completo",
+      "icon": "/calendar_icon.png"
+    },
+
+    "experience": {
+      "title": "Tipo de experiencia",
+      "value": "Relax y aventura",
+      "icon": "/mountain_icon.png"
+    },
+
+    "season": {
+      "title": "Mejor temporada",
+      "value": "Todo el año",
+      "icon": "/sun_icon.png"
+    }
+  },
+
+  "includes": [
+    {
+      "title": "Transporte ida y vuelta",
+      "description": "Desde Santo Domingo",
+      "icon": "/transport_icon.png"
+    },
+    {
+      "title": "Catamarán / Lancha rápida",
+      "description": "Paseo panorámico",
+      "icon": "/catamaran_icon.png"
+    },
+    {
+      "title": "Snorkel",
+      "description": "Equipos incluidos",
+      "icon": "/snorkel_icon.png"
+    },
+    {
+      "title": "Almuerzo buffet",
+      "description": "Comida típica dominicana",
+      "icon": "/food_icon.png"
+    },
+    {
+      "title": "Bebidas ilimitadas",
+      "description": "Nacionales y refrescos",
+      "icon": "/drinks_icon.png"
+    },
+    {
+      "title": "Guía turístico",
+      "description": "Atención personalizada",
+      "icon": "/guide_icon.png"
+    },
+    {
+      "title": "Seguro de viaje",
+      "description": "Asistencia 24/7",
+      "icon": "/insurance_icon.png"
+    }
+  ],
+
+  "gallery": [
+    "/isla_saona_gallery_1.jfif",
+    "/isla_saona_gallery_2.jfif",
+    "/isla_saona_gallery_3.jfif",
+    "/isla_saona_gallery_4.jfif",
+    "/isla_saona_gallery_5.jfif"
+  ],
+
+  "offers": [
+    {
+      "title": "Isla Saona Clásica",
+      "image": "/isla_saona_offer_1.jfif",
+      "price": "RD$3,800",
+      "old_price": "RD$4,500",
+      "discount": "-15%",
+      "rating": "4.9",
+      "duration": "1 día completo"
+    },
+    {
+      "title": "Isla Saona y Snorkel",
+      "image": "/isla_saona_offer_2.jfif",
+      "price": "RD$4,200",
+      "old_price": "RD$5,200",
+      "discount": "-20%",
+      "rating": "4.9",
+      "duration": "1 día completo"
+    },
+    {
+      "title": "Isla Saona VIP",
+      "image": "/isla_saona_offer_3.jfif",
+      "price": "RD$5,400",
+      "old_price": "RD$6,000",
+      "discount": "-10%",
+      "rating": "4.8",
+      "duration": "1 día completo"
+    },
+    {
+      "title": "Catamarán Premium",
+      "image": "/isla_saona_offer_4.jfif",
+      "price": "RD$4,900",
+      "old_price": "RD$6,000",
+      "discount": "-18%",
+      "rating": "4.9",
+      "duration": "1 día completo"
+    },
+    {
+      "title": "Saona All Inclusive",
+      "image": "/isla_saona_offer_5.jfif",
+      "price": "RD$4,700",
+      "old_price": "RD$5,300",
+      "discount": "-12%",
+      "rating": "4.8",
+      "duration": "1 día completo"
+    }
+  ]
+}

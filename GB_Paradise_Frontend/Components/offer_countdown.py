@@ -4,59 +4,33 @@ from datetime import datetime, timedelta
 
 class CountdownState(rx.State):
 
+    # Fecha objetivo (2 días, 14 horas y 25 minutos desde ahora)
     target_date: str = (
         datetime.now() + timedelta(days=2, hours=14, minutes=25)
     ).isoformat()
 
-    current_time: str = datetime.now().isoformat()
-
-    @rx.event
-    def tick(self):
-        self.current_time = datetime.now().isoformat()
-
     @rx.var
     def days(self) -> str:
-        diff = (
-            datetime.fromisoformat(self.target_date)
-            - datetime.fromisoformat(self.current_time)
-        )
-
-        total = max(int(diff.total_seconds()), 0)
-
-        return f"{total // 86400:02}"
+        diff = datetime.fromisoformat(self.target_date) - datetime.now()
+        return f"{max(diff.days, 0):02}"
 
     @rx.var
     def hours(self) -> str:
-        diff = (
-            datetime.fromisoformat(self.target_date)
-            - datetime.fromisoformat(self.current_time)
-        )
-
-        total = max(int(diff.total_seconds()), 0)
-
-        return f"{(total % 86400) // 3600:02}"
+        diff = datetime.fromisoformat(self.target_date) - datetime.now()
+        hours = max(diff.seconds // 3600, 0)
+        return f"{hours:02}"
 
     @rx.var
     def minutes(self) -> str:
-        diff = (
-            datetime.fromisoformat(self.target_date)
-            - datetime.fromisoformat(self.current_time)
-        )
-
-        total = max(int(diff.total_seconds()), 0)
-
-        return f"{(total % 3600) // 60:02}"
+        diff = datetime.fromisoformat(self.target_date) - datetime.now()
+        minutes = max((diff.seconds % 3600) // 60, 0)
+        return f"{minutes:02}"
 
     @rx.var
     def seconds(self) -> str:
-        diff = (
-            datetime.fromisoformat(self.target_date)
-            - datetime.fromisoformat(self.current_time)
-        )
-
-        total = max(int(diff.total_seconds()), 0)
-
-        return f"{total % 60:02}"
+        diff = datetime.fromisoformat(self.target_date) - datetime.now()
+        seconds = max(diff.seconds % 60, 0)
+        return f"{seconds:02}"
 
 
 def countdown_box(number, label):
@@ -68,17 +42,17 @@ def countdown_box(number, label):
             bg="#12B3C7",
             color="white",
             font_weight="bold",
-            font_size="1.5em",
-            border_radius="12px",
-            padding="0.3em",
-            width="52px",
+            font_size="2em",
+            border_radius="14px",
+            padding="0.4em",
+            width="75px",
             text_align="center",
         ),
 
         rx.text(
             label,
             color="white",
-            font_size="0.75em",
+            font_size="0.85em",
             font_weight="medium",
         ),
 
@@ -91,18 +65,12 @@ def offer_countdown():
 
     return rx.box(
 
-        # Actualiza cada segundo
-        rx.moment(
-            interval=1000,
-            on_change=CountdownState.tick,
-        ),
-
         rx.text(
             "¡La promoción termina en!",
             color="white",
             font_weight="bold",
-            font_size="1em",
-            margin_bottom="0.6em",
+            font_size="1.15em",
+            margin_bottom="0.8em",
             text_align="center",
         ),
 
@@ -121,8 +89,8 @@ def offer_countdown():
         ),
 
         bg="#023047",
-        padding="1em",
-        border_radius="20px",
+        padding="1.4em",
+        border_radius="22px",
         box_shadow="0 10px 25px rgba(0,0,0,0.15)",
-        width="250px",
+        width="340px",
     )

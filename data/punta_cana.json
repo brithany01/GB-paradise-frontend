@@ -1,0 +1,172 @@
+{
+  "hero": {
+    "background_image": "/punta_cana_hero_bg.png",
+    "title_image": "/punta_cana_title.png",
+
+    "badge": "Destino Popular",
+
+    "description": "Disfruta de playas de arena blanca, aguas cristalinas y resorts de clase mundial en el destino más famoso de República Dominicana.",
+
+    "price": "RD$8,500",
+    "rating": "4.8",
+    "reviews": "120 reseñas",
+
+    "duration": "3 días y 2 noches",
+    "category": "Playas paradisíacas",
+    "package": "Todo incluido",
+
+    "cancelation": "Cancelación gratuita hasta 48h antes"
+  },
+
+  "info": {
+    "location": "Punta Cana, La Altagracia, República Dominicana",
+
+    "duration": "3 días / 2 noches",
+
+    "experience": "Relajación y aventura",
+
+    "season": "Todo el año"
+  },
+
+  "includes": [
+    {
+      "title": "Transporte ida y vuelta",
+      "description": "Desde Santo Domingo"
+    },
+    {
+      "title": "Alojamiento",
+      "description": "2 noches en resort 5★"
+    },
+    {
+      "title": "Alimentación",
+      "description": "Todo incluido"
+    },
+    {
+      "title": "Actividades",
+      "description": "Snorkel, catamarán y más"
+    },
+    {
+      "title": "Seguro de viaje",
+      "description": "Asistencia 24/7"
+    },
+    {
+      "title": "Impuestos y tasas",
+      "description": "Todos incluidos"
+    }
+  ],
+
+  "gallery": [
+    "/punta_cana_gallery_1.png",
+    "/punta_cana_gallery_2.png",
+    "/punta_cana_gallery_3.png",
+    "/punta_cana_gallery_4.png",
+    "/punta_cana_gallery_5.png"
+  ],
+
+  "itinerary": [
+    {
+      "day": "Día 1",
+      "items": [
+        {
+          "time": "08:00 AM",
+          "title": "Salida desde Santo Domingo"
+        },
+        {
+          "time": "01:00 PM",
+          "title": "Check-in en el resort"
+        },
+        {
+          "time": "04:00 PM",
+          "title": "Tarde libre en la playa"
+        }
+      ]
+    },
+    {
+      "day": "Día 2",
+      "items": [
+        {
+          "time": "09:00 AM",
+          "title": "Excursión en catamarán"
+        },
+        {
+          "time": "01:00 PM",
+          "title": "Almuerzo buffet"
+        },
+        {
+          "time": "04:00 PM",
+          "title": "Tarde libre"
+        }
+      ]
+    },
+    {
+      "day": "Día 3",
+      "items": [
+        {
+          "time": "09:00 AM",
+          "title": "Mañana libre"
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Check-out"
+        },
+        {
+          "time": "04:00 PM",
+          "title": "Regreso a Santo Domingo"
+        }
+      ]
+    }
+  ],
+
+  "map": {
+    "image": "/punta_cana_map.png",
+
+    "title": "Punta Cana, La Altagracia",
+
+    "features": [
+      "Playas de arena blanca",
+      "Aguas cristalinas",
+      "Resorts de clase mundial",
+      "Ambiente tropical todo el año"
+    ]
+  },
+
+  "offers": [
+    {
+      "title": "Punta Cana All Inclusive",
+      "image": "/punta_cana_offer_1.png",
+      "price": "RD$8,500",
+      "discount": "-15%"
+    },
+    {
+      "title": "Punta Cana en Pareja",
+      "image": "/punta_cana_offer_2.png",
+      "price": "RD$9,600",
+      "discount": "-20%"
+    },
+    {
+      "title": "Punta Cana Familiar",
+      "image": "/punta_cana_offer_3.png",
+      "price": "RD$12,600",
+      "discount": "-10%"
+    },
+    {
+      "title": "Lujo en Punta Cana",
+      "image": "/punta_cana_offer_4.png",
+      "price": "RD$14,800",
+      "discount": "-18%"
+    },
+    {
+      "title": "Punta Cana Aventura",
+      "image": "/punta_cana_offer_5.png",
+      "price": "RD$9,500",
+      "discount": "-12%"
+    }
+  ],
+
+  "cta": {
+    "title": "¿Listo para vivir tu aventura en Punta Cana?",
+    "description": "Reserva ahora y disfruta del paraíso caribeño.",
+    "button": "Reservar ahora"
+  }
+}
+

@@ -1,0 +1,181 @@
+{
+  "hero": {
+    "image": "/jarabacoa_hero.png",
+    "title_image": "/jarabacoa_title.png",
+
+    "badge": "Destino Popular",
+
+    "subtitle": "Aventura en la montaña",
+
+    "description": "Vive una experiencia inolvidable en el corazón de la Cordillera Central. Naturaleza, aventura y relajación en un solo destino.",
+
+    "price": "RD$4,500",
+
+    "rating": "4.7",
+
+    "reviews": "98 reseñas",
+
+    "cancelation": "Cancelación gratuita hasta 48h antes",
+
+    "features": [
+      "3 días y 2 noches",
+      "Aventura",
+      "Cascadas",
+      "Naturaleza",
+      "Todo incluido"
+    ]
+  },
+
+  "info": {
+    "location": {
+      "title": "Ubicación",
+      "value": "Jarabacoa, La Vega, República Dominicana",
+      "icon": "/location_icon.png"
+    },
+
+    "duration": {
+      "title": "Duración",
+      "value": "3 días / 2 noches",
+      "icon": "/calendar_icon.png"
+    },
+
+    "experience": {
+      "title": "Tipo de experiencia",
+      "value": "Aventura en la montaña",
+      "icon": "/mountain_icon.png"
+    },
+
+    "season": {
+      "title": "Mejor temporada",
+      "value": "Todo el año",
+      "icon": "/sun_icon.png"
+    }
+  },
+
+  "includes": [
+    {
+      "title": "Transporte ida y vuelta",
+      "description": "Desde Santo Domingo",
+      "icon": "/transport_icon.png"
+    },
+    {
+      "title": "Alojamiento",
+      "description": "2 noches de hotel",
+      "icon": "/hotel_icon.png"
+    },
+    {
+      "title": "Alimentación",
+      "description": "Desayunos y almuerzos",
+      "icon": "/food_icon.png"
+    },
+    {
+      "title": "Guía turístico",
+      "description": "Experto local",
+      "icon": "/guide_icon.png"
+    },
+    {
+      "title": "Actividades",
+      "description": "Según itinerario",
+      "icon": "/activities_icon.png"
+    },
+    {
+      "title": "Seguro de viaje",
+      "description": "Asistencia 24/7",
+      "icon": "/insurance_icon.png"
+    }
+  ],
+
+  "gallery": [
+    "/jarabacoa_galeria1.png",
+    "/jarabacoa_galeria2.png",
+    "/jarabacoa_galeria3.png",
+    "/jarabacoa_galeria4.png",
+    "/jarabacoa_galeria5.png",
+    "/jarabacoa_galeria6.png"
+  ],
+
+  "itinerary": [
+    {
+      "day": "Día 1",
+      "title": "Llegada y recorrido por Jarabacoa",
+      "description": "Recepción, alojamiento y recorrido por los principales atractivos."
+    },
+    {
+      "day": "Día 2",
+      "title": "Rafting y actividades extremas",
+      "description": "Experiencia completa de aventura y naturaleza."
+    },
+    {
+      "day": "Día 3",
+      "title": "Cascadas y regreso",
+      "description": "Visita a los saltos más populares y retorno."
+    }
+  ],
+
+  "map": {
+    "location": "Jarabacoa, La Vega, República Dominicana",
+    "google_maps": "https://maps.google.com/?q=Jarabacoa"
+  },
+
+  "offers": [
+    {
+      "title": "Aventura en Jarabacoa",
+      "image": "/offer_1.png",
+      "price": "RD$4,500",
+      "old_price": "RD$5,300",
+      "discount": "-15%",
+      "rating": "4.7",
+      "duration": "3 días / 2 noches"
+    },
+    {
+      "title": "Jarabacoa Extremo",
+      "image": "/offer_2..png",
+      "price": "RD$5,200",
+      "old_price": "RD$6,500",
+      "discount": "-20%",
+      "rating": "4.8",
+      "duration": "3 días / 2 noches"
+    },
+    {
+      "title": "Relax en la Montaña",
+      "image": "/offer_3.png",
+      "price": "RD$3,200",
+      "old_price": "RD$3,600",
+      "discount": "-10%",
+      "rating": "4.6",
+      "duration": "2 días / 1 noche"
+    },
+    {
+      "title": "Senderismo & Cascadas",
+      "image": "/offer_4.png",
+      "price": "RD$2,100",
+      "old_price": "RD$2,600",
+      "discount": "-18%",
+      "rating": "4.7",
+      "duration": "1 día completo"
+    },
+    {
+      "title": "Canopy Adventure",
+      "image": "/offer_5.png",
+      "price": "RD$2,300",
+      "old_price": "RD$2,600",
+      "discount": "-12%",
+      "rating": "4.7",
+      "duration": "1 día completo"
+    },
+    {
+      "title": "Rafting en el Yaque",
+      "image": "/offer_6.png",
+      "price": "RD$2,800",
+      "old_price": "RD$3,300",
+      "discount": "-15%",
+      "rating": "4.8",
+      "duration": "1 día completo"
+    }
+  ],
+
+  "cta": {
+    "title": "¿Listo para tu próxima aventura?",
+    "subtitle": "Reserva ahora y vive la magia de Jarabacoa."
+  }
+}

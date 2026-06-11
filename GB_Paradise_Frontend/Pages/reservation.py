@@ -11,7 +11,6 @@ from GB_Paradise_Frontend.Components.reservation_cta import reservation_cta
 from GB_Paradise_Frontend.Components.reservation_features import reservation_features
 
 
-@rx.page(route="/reservation")
 def reservation():
 
     return rx.box(

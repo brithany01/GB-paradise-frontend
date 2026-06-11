@@ -1,0 +1,146 @@
+{
+  "hero": {
+    "image": "/bavaro_hero.jfif",
+
+    "badge": "Destino Popular",
+
+    "subtitle": "Relájate y disfruta",
+
+    "description": "Todo incluido en los mejores resorts de Bávaro. Relájate y disfruta de playas, piscinas, shows y gastronomía internacional.",
+
+    "price": "RD$9,900",
+
+    "rating": "4.9",
+
+    "reviews": "134 reseñas",
+
+    "cancelation": "Cancelación gratuita hasta 48h antes",
+
+    "features": [
+      "4 días y 3 noches",
+      "Todo incluido",
+      "Playas paradisíacas",
+      "Shows en vivo"
+    ]
+  },
+
+  "info": {
+    "location": {
+      "title": "Ubicación",
+      "value": "Bávaro, Punta Cana, República Dominicana",
+      "icon": "/location_icon.png"
+    },
+
+    "duration": {
+      "title": "Duración",
+      "value": "4 días / 3 noches",
+      "icon": "/calendar_icon.png"
+    },
+
+    "experience": {
+      "title": "Tipo de experiencia",
+      "value": "Relax y entretenimiento",
+      "icon": "/mountain_icon.png"
+    },
+
+    "season": {
+      "title": "Mejor temporada",
+      "value": "Todo el año",
+      "icon": "/sun_icon.png"
+    }
+  },
+
+  "includes": [
+    {
+      "title": "Transporte ida y vuelta",
+      "description": "Desde Santo Domingo",
+      "icon": "/transportt_icon.png"
+    },
+    {
+      "title": "Alojamiento",
+      "description": "Resort 5 estrellas",
+      "icon": "/hotell_icon.png"
+    },
+    {
+      "title": "Alimentación",
+      "description": "Todo incluido",
+      "icon": "/food_iconn.png"
+    },
+    {
+      "title": "Bebidas ilimitadas",
+      "description": "Nacionales e importadas",
+      "icon": "/drinks_icon.png"
+    },
+    {
+      "title": "Actividades",
+      "description": "Deportes y entretenimiento",
+      "icon": "/activities_iconn.png"
+    },
+    {
+      "title": "Shows en vivo",
+      "description": "Cada noche",
+      "icon": "/nightlife_icon.png"
+    },
+    {
+      "title": "Seguro de viaje",
+      "description": "Asistencia 24/7",
+      "icon": "/insurance_icon.png"
+    }
+  ],
+
+  "gallery": [
+    "/bavaro_gallery_1.jfif",
+    "/bavaro_gallery_2.jfif",
+    "/bavaro_gallery_3.jfif",
+    "/bavaro_gallery_4.jfif",
+    "/bavaro_gallery_5.jfif"
+  ],
+
+  "offers": [
+    {
+      "title": "Bávaro Beach Escape",
+      "image": "/bavaro_offer_1.jfif",
+      "price": "RD$9,900",
+      "old_price": "RD$11,700",
+      "discount": "-15%",
+      "rating": "4.8",
+      "duration": "4 días / 3 noches"
+    },
+    {
+      "title": "Luxury Bávaro Resort",
+      "image": "/bavaro_offer_2.jfif",
+      "price": "RD$12,900",
+      "old_price": "RD$16,200",
+      "discount": "-20%",
+      "rating": "4.9",
+      "duration": "4 días / 3 noches"
+    },
+    {
+      "title": "Bávaro Family Fun",
+      "image": "/bavaro_offer_3.jfif",
+      "price": "RD$10,900",
+      "old_price": "RD$12,100",
+      "discount": "-10%",
+      "rating": "4.7",
+      "duration": "4 días / 3 noches"
+    },
+    {
+      "title": "Adults Only Bávaro",
+      "image": "/bavaro_offer_4.jfif",
+      "price": "RD$13,500",
+      "old_price": "RD$16,400",
+      "discount": "-18%",
+      "rating": "4.9",
+      "duration": "4 días / 3 noches"
+    },
+    {
+      "title": "Bávaro Premium All Inclusive",
+      "image": "/bavaro_offer_5.jfif",
+      "price": "RD$14,500",
+      "old_price": "RD$16,500",
+      "discount": "-12%",
+      "rating": "4.8",
+      "duration": "4 días / 3 noches"
+    }
+  ]
+}

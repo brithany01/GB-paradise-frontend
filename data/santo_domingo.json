@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "image": "/santo_domingo_hero.png",
+    "title_image": "/santo_domingo_title.png",
+
+    "badge": "Destino Histórico",
+
+    "subtitle": "Historia, cultura y diversión",
+
+    "description": "Descubre la primera ciudad del Nuevo Mundo. Recorre la Zona Colonial, disfruta de su gastronomía y vive la esencia cultural de República Dominicana.",
+
+    "price": "RD$3,500",
+
+    "rating": "4.7",
+
+    "reviews": "184 reseñas",
+
+    "cancelation": "Cancelación gratuita hasta 48h antes",
+
+    "features": [
+      "1 día completo",
+      "Zona Colonial",
+      "Museos",
+      "Gastronomía"
+    ]
+  },
+
+  "info": {
+    "location": {
+      "title": "Ubicación",
+      "value": "Santo Domingo, República Dominicana",
+      "icon": "/location_icon.png"
+    },
+
+    "duration": {
+      "title": "Duración",
+      "value": "1 día completo",
+      "icon": "/calendar_icon.png"
+    },
+
+    "experience": {
+      "title": "Tipo de experiencia",
+      "value": "Cultural e histórica",
+      "icon": "/mountain_icon.png"
+    },
+
+    "season": {
+      "title": "Mejor temporada",
+      "value": "Todo el año",
+      "icon": "/sun_icon.png"
+    }
+  },
+
+  "includes": [
+    {
+      "title": "Transporte ida y vuelta",
+      "description": "Desde hoteles seleccionados",
+      "icon": "/transport_icon.png"
+    },
+    {
+      "title": "Guía turístico",
+      "description": "Experto en historia",
+      "icon": "/guide_icon.png"
+    },
+    {
+      "title": "Zona Colonial",
+      "description": "Recorrido completo",
+      "icon": "/colonial_icon.png"
+    },
+    {
+      "title": "Museos",
+      "description": "Entradas incluidas",
+      "icon": "/museum_icon.png"
+    },
+    {
+      "title": "Almuerzo típico",
+      "description": "Comida dominicana",
+      "icon": "/food_iconn.png"
+    },
+    {
+      "title": "Seguro de viaje",
+      "description": "Asistencia 24/7",
+      "icon": "/insurance_icon.png"
+    }
+  ],
+
+  "gallery": [
+    "/santo_domingo_gallery_1.png",
+    "/santo_domingo_gallery_2.png",
+    "/santo_domingo_gallery_3.png",
+    "/santo_domingo_gallery_4.png",
+    "/santo_domingo_gallery_5.png"
+  ],
+
+  "offers": [
+    {
+      "title": "Zona Colonial Clásica",
+      "image": "/santo_domingo_offer_1.png",
+      "price": "RD$3,500",
+      "old_price": "RD$4,200",
+      "discount": "-15%",
+      "rating": "4.7",
+      "duration": "1 día completo"
+    },
+    {
+      "title": "Tour Histórico Premium",
+      "image": "/santo_domingo_offer_2.png",
+      "price": "RD$4,500",
+      "old_price": "RD$5,300",
+      "discount": "-18%",
+      "rating": "4.8",
+      "duration": "1 día completo"
+    },
+    {
+      "title": "Santo Domingo Cultural",
+      "image": "/santo_domingo_offer_3.png",
+      "price": "RD$3,900",
+      "old_price": "RD$4,600",
+      "discount": "-12%",
+      "rating": "4.7",
+      "duration": "1 día completo"
+    },
+    {
+      "title": "Museos y Gastronomía",
+      "image": "/santo_domingo_offer_4.png",
+      "price": "RD$4,200",
+      "old_price": "RD$5,000",
+      "discount": "-16%",
+      "rating": "4.8",
+      "duration": "1 día completo"
+    },
+    {
+      "title": "Experiencia Colonial VIP",
+      "image": "/santo_domingo_offer_5.png",
+      "price": "RD$5,200",
+      "old_price": "RD$6,000",
+      "discount": "-13%",
+      "rating": "4.9",
+      "duration": "1 día completo"
+    }
+  ]
+}
